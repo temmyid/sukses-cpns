@@ -188,10 +188,10 @@ iframe {
 
 .section-gradient{
 	background: #008aff; /* For browsers that do not support gradients */
-  	background: -webkit-linear-gradient(135deg, #eb1e25 0%, #e55861 100%); /* For Safari 5.1 to 6.0 */
-  	background: -o-linear-gradient(bottom right, #eb1e25, #e55861); /* For Opera 11.1 to 12.0 */
+  	background: -webkit-linear-gradient(135deg, #ca9462 0%, #ca9462 100%); /* For Safari 5.1 to 6.0 */
+  	background: -o-linear-gradient(bottom right, #ca9462, #ca9462); /* For Opera 11.1 to 12.0 */
   	background: -moz-linear-gradient(bottom right, #008aff, #1ad2fd); /* For Firefox 3.6 to 15 */
-  	background: linear-gradient(to 135deg, #eb1e25 0%, #e55861 100%); /* Standard syntax */
+  	background: linear-gradient(to 135deg, #ca9462 0%, #ca9462 100%); /* Standard syntax */
   	padding: 70px 0;
 }
 
