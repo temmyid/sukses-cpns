@@ -1671,7 +1671,7 @@ input#email_newsletter:-ms-input-placeholder { /* Internet Explorer 10+ */
 .sponsors img.sponsor {
     opacity: 0.4;
     margin: 10px 25px;
-    max-height: 28px;
+    max-height: 35px;
     -webkit-transition: all 0.25s ease-in-out;
     -moz-transition: all 0.25s ease-in-out;
     -ms-transition: all 0.25s ease-in-out;
