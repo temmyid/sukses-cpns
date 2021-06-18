@@ -1483,6 +1483,7 @@ input#email_newsletter:-ms-input-placeholder { /* Internet Explorer 10+ */
 	z-index:10;
 	width: 100%;
 	height: auto;
+	border-radius: 10px;
 }
 
 .popup-gallery:hover img {
@@ -1731,6 +1732,7 @@ input#email_newsletter:-ms-input-placeholder { /* Internet Explorer 10+ */
 	padding: 160px 0;
 	position: relative;
 	text-align: center;
+	border-radius: 10px;
 }
 
 .youtube-video-icon {
