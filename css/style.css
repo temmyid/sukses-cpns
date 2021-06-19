@@ -1795,7 +1795,7 @@ ul.features-list-hero li i{
 ul.features-list-hero li i.blue{
 	color: #008aff;
     background: #008aff;
-    background: -webkit-gradient(linear, left top, right bottom, from(#e55861), to(#eb1e25));
+    background: -webkit-gradient(linear, left top, right bottom, from(#fff), to(#fff));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
