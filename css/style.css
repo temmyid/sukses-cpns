@@ -1727,7 +1727,7 @@ input#email_newsletter:-ms-input-placeholder { /* Internet Explorer 10+ */
 /* h) PopUp Video */
 
 .youtube-video-wrapper{
-	background: url(http://placehold.it/600x500) top center no-repeat;
+	background: url(../images/600x500.png) top center no-repeat;
 	background-size: initial;
 	padding: 160px 0;
 	position: relative;
