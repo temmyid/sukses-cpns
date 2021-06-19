@@ -415,7 +415,8 @@ iframe {
 }
 
 .navbar-fixed-top #navbar-collapse-02 .current a {
-    color:#008aff;
+    /* color:#008aff; */
+	color: #eb1e25;
      -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
@@ -437,7 +438,7 @@ iframe {
 
 .navbar-fixed-top {
 	position: absolute!important;
-	background-color: rgba(0, 0, 0, 0.0)!important; 
+	/* background-color: rgba(0, 0, 0, 0.0)!important;  */
 	border-bottom: none;
 	transition: background-color 0.25s ease 0s;
 }
@@ -458,7 +459,7 @@ iframe {
 }
 
 .navbar-fixed-top .navbar-nav > li > a{
-	color:#fff !important;
+	/* color:#fff !important; */
 	font-size: 14px !important;
 	line-height: 30px !important;
 	text-transform: uppercase;
@@ -473,7 +474,7 @@ iframe {
 
 .navbar-fixed-top .navbar-nav > li > a.discover-btn {
 	background: transparent;
-	border: 1px solid #fff;
+	border: 1px solid #eb1e25;
 	border-radius: 5px 5px;
 	padding: 8px 24px!important;
 	margin-left: 10px;
