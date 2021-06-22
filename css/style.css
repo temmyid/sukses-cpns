@@ -1482,15 +1482,15 @@ input#email_newsletter:-ms-input-placeholder { /* Internet Explorer 10+ */
 
 .popup-gallery img {
 	position:relative;
-	z-index:10;
+	z-index:1;
 	width: 100%;
 	height: auto;
 	border-radius: 10px;
 }
 
-.popup-gallery:hover img {
+/* .popup-gallery:hover img {
 	opacity: 0.25;
-}
+} */
 
 .popup-gallery a span.eye-wrapper, 
 .popup-gallery a span.eye-wrapper2 {
@@ -1532,9 +1532,9 @@ input#email_newsletter:-ms-input-placeholder { /* Internet Explorer 10+ */
 	right: 0%;
 }
 
-.popup-gallery a:hover span{
+/* .popup-gallery a:hover span{
 	opacity: 1;
-}
+} */
 
 .popup-gallery img,
 .popup-gallery a span {
