@@ -474,6 +474,7 @@ iframe {
 
 .navbar-fixed-top .navbar-nav > li > a.discover-btn {
 	background: transparent;
+	
 	border: 1px solid #eb1e25;
 	border-radius: 5px 5px;
 	padding: 8px 24px!important;
