@@ -1829,6 +1829,9 @@ ul.features-list-hero li i.blue{
 
 @media (max-width: 767px) {
 
+
+
+
 	.home-section {
 		padding-top: 150px;
 	  	padding-bottom: 50px;
@@ -1852,6 +1855,11 @@ ul.features-list-hero li i.blue{
 
 	.home-title p{
 		margin-bottom:30px!important;
+	}
+
+
+	.content .card {
+		width: calc(47% - 20px);
 	}
 
 }
@@ -1992,7 +2000,7 @@ ul.features-list-hero li i.blue{
   }
    .content .card{
 	background: #fff;
-	width: calc(47% - 20px);
+	width: calc(40% - 20px);
 	margin-left: 10px;
 	margin-right: 10px;
 	text-align: center;
