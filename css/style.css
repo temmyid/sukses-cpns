@@ -1992,9 +1992,9 @@ ul.features-list-hero li i.blue{
   }
    .content .card{
 	background: #fff;
-	width: calc(43% - 20px);
-	margin-left: 30px;
-	margin-right: 30px;
+	width: calc(47% - 20px);
+	margin-left: 10px;
+	margin-right: 10px;
 	text-align: center;
 	padding: 15px 30px  30px 30px;
 	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
@@ -2063,11 +2063,11 @@ ul.features-list-hero li i.blue{
   }
   .content .one .top,
   .content .one button{
-	background: #ca9462;
+	background: #eb1e25;
   }
   .content .two .top,
   .content .two button{
-	background: #ca9462;
+	background: #eb1e25;
   }
   .content .three .top,
   .content .three button{
