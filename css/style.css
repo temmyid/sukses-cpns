@@ -174,7 +174,7 @@ iframe {
 }
 
 .section-grey{
-	background: #f2f7f8;
+	/* background: #f2f7f8; */
 	padding: 70px 0;
 }
 
@@ -1977,5 +1977,8 @@ ul.features-list-hero li i.blue{
 }
 
 /* WA End */
+
+
+
 
 
