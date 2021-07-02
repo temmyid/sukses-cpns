@@ -2178,6 +2178,15 @@ ul.features-list-hero li i.blue{
     animation: moveImg 3s linear infinite;
 }
 
+
+@media  (max-width: 767px) {
+	.content-right img {
+
+	width: 120%;
+	margin-top: -50px;
+
+}}
+
 .content-right img:last-child{
     opacity: 0;
 }
