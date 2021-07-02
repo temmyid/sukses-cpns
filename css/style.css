@@ -2149,9 +2149,12 @@ ul.features-list-hero li i.blue{
 }
 .content-left p{
     /* padding: 30px 0; */
-    font-size: 20px;
+    font-size: 14px;
     opacity: 0.9;
     font-weight: 400;
+	color: white;
+}
+.content-left h6{
 	color: white;
 }
 .store-icons img{
@@ -2182,7 +2185,7 @@ ul.features-list-hero li i.blue{
 @media  (max-width: 767px) {
 	.content-right img {
 
-	/* width: 120%; */
+	width: 400px;
 	margin-top: -50px;
 
 }}
@@ -2220,6 +2223,7 @@ ul.features-list-hero li i.blue{
     .content-left h1{
         font-size: 48px;
 		color: white;
+		font-size: 35px;
     }
     .store-icons img{
         margin: 0;
