@@ -2110,3 +2110,133 @@ ul.features-list-hero li i.blue{
 /* Pricing */
 
 
+
+
+/* Hero */
+.main-wrapper{
+    background: url(../images/backgroundhero2.jpg) center/cover no-repeat;
+    color: #fff;
+}
+.showcase-container{
+    width: 90vw;
+    margin: 0 auto;
+}
+.brand-name{
+    display: flex;
+    align-items: center;
+    padding: 30px 0;
+}
+.brand-name span:first-child{
+    font-size: 36px;
+    padding-right: 10px;
+}
+.brand-name span:last-child{
+    font-weight: 700;
+    font-size: 26px;
+}
+.main-content{
+    padding: 40px 0;
+    text-align: center;
+    width: 95%;
+    margin: 0 auto;
+}
+.content-left h1{
+    font-size: 38px;
+    line-height: 1.4;
+    font-family: var(--Manrope);
+    font-weight: 800;
+	color: white;
+}
+.content-left p{
+    padding: 30px 0;
+    font-size: 20px;
+    opacity: 0.9;
+    font-weight: 400;
+	color: white;
+}
+.store-icons img{
+    width: 200px;
+    margin: 12px auto;
+    cursor: pointer;
+    transition: all 0.4s ease-in-out;
+}
+.store-icons img:hover{
+    transform: translateY(-6px);
+}
+.content-right{
+    position: relative;
+    min-height: 60vh;
+}
+.content-right img{
+    position: absolute;
+    width: 60%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: all 0.9s ease;
+    cursor: pointer;
+    animation: moveImg 3s linear infinite;
+}
+
+.content-right img:last-child{
+    opacity: 0;
+}
+.content-right img:last-child:hover{
+    opacity: 1;
+}
+
+@keyframes moveImg{
+    0%{transform: translate(-40%, -50%);}
+    50%{transform: translate(-50%, -50%);}
+    100%{transform: translate(-40%, -50%);}
+}
+
+
+@media screen and (min-width: 992px){
+    .main-wrapper{
+        height: 100vh;
+    }
+    .showcase-container{
+        width: 84vw;
+    }
+    .main-content{
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        text-align: left;
+        align-items: center;
+        padding: 0;
+        height: calc(100vh - 114px);
+    }
+    .content-left h1{
+        font-size: 48px;
+		color: white;
+    }
+    .store-icons img{
+        margin: 0;
+    }
+    .store-icons{
+        display: flex;
+    }
+    .content-right img{
+        width: 90%;
+        padding-left: 32px;
+    }
+}
+
+@media screen and (min-width: 1200px){
+    .content-left h1{
+        width: 90%;
+		color: white;
+    }
+    .content-right img{
+        /* width: 65%; */
+    }
+}
+/* Hero End*/
+
+
+
+
+
+
