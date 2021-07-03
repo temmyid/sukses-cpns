@@ -1991,7 +1991,7 @@ ul.features-list-hero li i.blue{
 
 
 .content{
-	max-width: 1090px;
+	max-width: 1100px;
 	width: 100%;
 	margin: auto;
 	display: flex;
@@ -2020,9 +2020,9 @@ ul.features-list-hero li i.blue{
   }
   .content .card .top .price-sec{
 	margin-top: -10px;
-	font-weight: 600;
+	font-weight: 400;
 	padding-top: 5px;
-    font-size: 30px;
+    font-size: 25px;
   }
   .content .card .top .price{
 	font-size: 45px;
@@ -2033,7 +2033,7 @@ ul.features-list-hero li i.blue{
   }
   .content .card .details .one{
 	margin-top: 25px;
-	font-size: 15px;
+	font-size: 14px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -2052,6 +2052,15 @@ ul.features-list-hero li i.blue{
   .content .card .details .one i{
 	color: #2db94d;
   }
+
+
+  .content .card .details .one span{
+	
+	text-align: left;
+	
+  }
+
+
   .content .card .details i.fa-times{
 	color: #cd3241;
   }
@@ -2153,6 +2162,7 @@ ul.features-list-hero li i.blue{
     opacity: 0.9;
     font-weight: 400;
 	color: white;
+
 }
 
 .content-left h5{
