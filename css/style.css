@@ -179,6 +179,8 @@ iframe {
 	/* margin-top: -50px; */
 }
 
+
+
 .section-white.no-padding, .section-grey.no-padding {
 	padding:0;
 }
@@ -203,6 +205,16 @@ iframe {
 
 .width-100{
 	width: 100%;
+}
+
+
+.problem {
+	margin-top: -20px;
+}
+
+
+.solusi {
+	padding-bottom: 70px;
 }
 
 /* margin and padding classes */
@@ -1842,6 +1854,12 @@ ul.features-list-hero li i.blue{
 
 
 
+	.problem {
+		margin-top: -70px;
+	}
+
+
+
 
 	.home-section {
 		padding-top: 150px;
@@ -1888,6 +1906,9 @@ ul.features-list-hero li i.blue{
 }
 
 @media (max-width: 375px) {
+
+
+	
 
 	.navbar-toggle {
 	    margin-bottom: 0;
