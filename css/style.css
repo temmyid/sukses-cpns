@@ -2193,6 +2193,10 @@ ul.features-list-hero li i.blue{
     width: 95%;
     margin: 0 auto;
 }
+
+
+
+
 .content-left h1{
     font-size: 38px;
     line-height: 1.4;
@@ -2247,7 +2251,7 @@ ul.features-list-hero li i.blue{
 }
 .content-right img{
     position: absolute;
-    width: 60%;
+    width: 90%;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
