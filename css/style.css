@@ -2271,7 +2271,7 @@ ul.features-list-hero li i.blue{
         display: flex;
     }
     .content-right img{
-        width: 120%;
+        width: 100%;
         padding-left: 32px;
     }
 }
