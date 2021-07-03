@@ -1558,7 +1558,7 @@ input#email_newsletter:-ms-input-placeholder { /* Internet Explorer 10+ */
 }
 
 .gallery-show {
-	box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3); 
+	/* box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);  */
 	border: 8px solid rgba(255, 255, 255, 0.8);
 	margin: 20px 10px 40px 10px;
 }
@@ -1872,6 +1872,18 @@ ul.features-list-hero li i.blue{
 	.content .card {
 		width: calc(47% - 20px);
 	}
+
+}
+
+@media (max-width: 475px) {
+
+	
+  	.owl-carousel .owl-item img{
+  		width: 80%!important;
+  		margin: 0 10%;
+  	}
+
+	
 
 }
 
