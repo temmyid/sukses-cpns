@@ -1092,6 +1092,16 @@ ul.pricing-list li.price-tag a:hover{
 	padding:10px 0 20px 0;
 }
 
+.blog-item-inner h5{
+	text-align: left;
+	
+}
+
+.blog-item-inner p{
+	text-align: left;
+	
+}
+
 .blog-item-inner p{
 	margin:15px 0 20px 0;
 }
