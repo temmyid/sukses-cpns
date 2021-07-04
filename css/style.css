@@ -35,6 +35,8 @@ Version: 1.0
 /* 			               01. GENERAL LAYOUT                 */
 /* ========================================================== */
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;800&display=swap');
+
 ul, ol { 
 	list-style: none; 
 	list-style-image: none; 
@@ -56,12 +58,31 @@ ul li i{
 	padding-right: 5px;
 }
 
-p {
+/* p {
 	font-size: 15px;
 	line-height: 24px;
 	font-weight: 400;
 	color: #7c8595;
 	margin-bottom:15px;
+} */
+
+p {
+	font-family:  'Montserrat', sans-serif;	
+	font-size: 14px;
+	line-height: 26px;
+	font-weight: 400;
+	color: #808080;
+
+	/* margin-bottom:15px; */
+}
+
+span {
+	font-family:  'Montserrat', sans-serif;	
+	/* font-size: 14px;
+	line-height: 26px;
+	font-weight: 400;
+	color: #7c8595; */
+	/* margin-bottom:15px; */
 }
 
 a,
@@ -73,7 +94,7 @@ a:focus {
   
 
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;800&display=swap');
+
 
 h1 {
 	font-family:  'Montserrat', sans-serif;
@@ -1626,8 +1647,8 @@ input#email_newsletter:-ms-input-placeholder { /* Internet Explorer 10+ */
 }	
 
 .testim-inner p{
-	font-family: 'Roboto', sans-serif;
-	font-size: 20px;
+	/* font-family: 'Roboto', sans-serif; */
+	font-size: 18px;
 	line-height: 32px;
 	font-weight: 300;
 	font-style: italic;
@@ -2116,6 +2137,7 @@ ul.features-list-hero li i.blue{
   .content .card .details .one span{
 	
 	text-align: left;
+	color: #808080
 	
   }
 
@@ -2239,7 +2261,7 @@ ul.features-list-hero li i.blue{
 	color: red !important;
     background: #fff;
     transition: all 0.5s ease;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     line-height: 22px;
     font-weight: 500;
