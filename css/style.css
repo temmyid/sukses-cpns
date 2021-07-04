@@ -75,6 +75,10 @@ a:focus {
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;800&display=swap');
 
+h1 {
+	font-family:  'Montserrat', sans-serif;
+}
+
 
 
 h1,
@@ -2211,7 +2215,7 @@ ul.features-list-hero li i.blue{
 .content-left h1{
     font-size: 38px;
     line-height: 1.4;
-    font-family: var(--Manrope);
+    /* font-family: var(--Manrope); */
     font-weight: 800;
 	color: white;
 }
