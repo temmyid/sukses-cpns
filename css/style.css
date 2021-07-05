@@ -2358,30 +2358,46 @@ ul.features-list-hero li i.blue{
   }
   .content .one .top,
   .content .one button{
-	background: #eb1e25;
+	background: goldenrod;
+	height: 170px;
+  }
+
+
+  .content .one .top,
+  .content .one .btn-blue{
+	background: goldenrod;
+	
   }
 
   .content .two .top,
   .content .two button{
-	background: #eb1e25;
+	background: #7b7171;
 	height: 170px;
   }
 
 
-  .content .two .top2,
-  .content .two button{
-	background: blue;
-	height: 170px;
+  .content .two .top,
+  .content .two .btn-blue{
+	background: #7b7171;
+	
   }
-  
-
-  
 
 
   .content .three .top,
   .content .three button{
-	background: #eb1e25;
+	background: #ca2026;
+	height: 170px;
   }
+
+
+  .content .three .top,
+  .content .three .btn-blue{
+	background: #ca2026;
+	
+  }
+
+
+
   .content button:hover {
 	filter: brightness(90%);
   }
