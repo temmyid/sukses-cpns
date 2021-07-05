@@ -2258,7 +2258,8 @@ ul.features-list-hero li i.blue{
 	height: 130px;
 	color: #fff;
 	padding: 12px 0 0 0 ;
-	clip-path: polygon(0 0, 100% 0, 100% 53%, 49% 100%, 0 53%);
+	clip-path: polygon(0 0, 100% 0, 100% 75%, 50% 100%, 0 75%);
+	border-radius: 10px;
   }
   
   .content .card .top .title{
@@ -2269,13 +2270,14 @@ ul.features-list-hero li i.blue{
 	margin-top: -10px;
 	font-weight: 400;
 	padding-top: 5px;
-    font-size: 25px;
+    font-size: 15px;
   }
 
 
 .content .card .top .price-sec p{
 	color: white;
 	margin-top: 15px;
+	font-size: 17px;
   }
 
 
