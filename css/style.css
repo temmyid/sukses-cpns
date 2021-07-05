@@ -179,7 +179,7 @@ h2.section-title{
   
 
 h2.section-title.grey{
-	color:#ddd;
+	color:#292929;
 }
 
 h2.section-title.white{
@@ -268,7 +268,8 @@ iframe {
 }
 
 .section-dark{
-	background-color:#272834;
+	/* background-color:#272834; */
+	background-color: #f4f5f6;
 	padding:70px 0;
 }
 
@@ -1072,7 +1073,7 @@ ul.team-icon li a.dribble{
 
 .feature-box h4{
 	font-size: 18px;
-	color: #ddd;
+	color: #292929;
 	margin-bottom: 10px;
 }
 
