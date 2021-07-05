@@ -2258,6 +2258,23 @@ ul.features-list-hero li i.blue{
 	padding-top: 5px;
     font-size: 25px;
   }
+
+
+.content .card .top .price-sec p{
+	color: white;
+	margin-top: 15px;
+  }
+
+
+.content .card .top .price-sec .harga{
+	font-size: 25px;
+    margin-top: -15px;
+	
+  }
+
+
+
+
   .content .card .top .price{
 	font-size: 45px;
   }
@@ -2328,6 +2345,7 @@ ul.features-list-hero li i.blue{
   .content .two .top,
   .content .two button{
 	background: #eb1e25;
+	height: 170px;
   }
   .content .three .top,
   .content .three button{
