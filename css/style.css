@@ -1300,10 +1300,23 @@ ul.pricing-list li.price-tag a:hover{
 	
 }
 
+@media(max-width: 574px){
+	.blog-item-inner h5 {
+		text-align: center;
+  }
+  }
+
+
 .blog-item-inner p{
 	text-align: left;
 	
 }
+
+@media(max-width: 574px){
+	.blog-item-inner p {
+		text-align: center;
+  }
+  }
 
 .blog-item-inner p{
 	margin:15px 0 20px 0;
