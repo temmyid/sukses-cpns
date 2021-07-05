@@ -578,7 +578,20 @@ iframe {
 .rowfooter{
 	display: flex;
 	flex-wrap: wrap;
+	
+   
 }
+
+
+/* @media(max-width: 1200px){
+	.rowfooter{
+
+		margin-right: -200px;
+  }
+  } */
+
+
+ 
 
 
 .footer{
