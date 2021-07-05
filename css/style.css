@@ -2278,6 +2278,11 @@ ul.features-list-hero li i.blue{
   .content .card .top .price{
 	font-size: 45px;
   }
+
+
+
+
+
   .content .card .info{
 	font-size: 23px;
 	margin-top: 20px;
@@ -2342,14 +2347,27 @@ ul.features-list-hero li i.blue{
   .content .one button{
 	background: #eb1e25;
   }
+
   .content .two .top,
   .content .two button{
 	background: #eb1e25;
 	height: 170px;
   }
+
+
+  .content .two .top2,
+  .content .two button{
+	background: blue;
+	height: 170px;
+  }
+  
+
+  
+
+
   .content .three .top,
   .content .three button{
-	background: #11BCC3;
+	background: #eb1e25;
   }
   .content button:hover {
 	filter: brightness(90%);
@@ -2384,7 +2402,7 @@ ul.features-list-hero li i.blue{
 
 /* Hero */
 .main-wrapper{
-    background: url(../images/backgroundok2.png) center/cover no-repeat;
+    background: url(../images/backgroundhero2.png) center/cover no-repeat;
     color: #fff;
 }
 .showcase-container{
